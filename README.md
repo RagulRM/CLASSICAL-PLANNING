@@ -1,7 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 <h3>Name: Ragul R</h3>
 <h3>Register Number: 212222100040</h3>
-# Aim 
+<h3>AIM:</h3>
 To solve Implementation of Classical Planning Algorithm using python
 # Algorithm or Steps Involved:
 <ol>
