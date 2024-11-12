@@ -1,4 +1,8 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+Name: S.Shanmathi 
+Reg no:212222100049 
+# Aim 
+To solve Implementation of Classical Planning Algorithm using python
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
