@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-Name: S.Shanmathi 
-Reg no:212222100049 
+<h3>Name: Ragul R</h3>
+<h3>Register Number: 212222100040</h3>
 # Aim 
 To solve Implementation of Classical Planning Algorithm using python
 # Algorithm or Steps Involved:
